@@ -1,0 +1,7 @@
+torch
+monai
+matplotlib
+numpy
+nibabel
+tifffile
+requests
